@@ -29,3 +29,12 @@ learnMakedown
 ## 行外模式
 > 垃圾[百度][1]牛逼[谷歌][2]
 [1]:(baidu.com)[2]:(google)
+
+我喜欢的网站有[百度][1]和
+[好123][2] or [GitHub][3].
+[1]: http://baidu.com/ "baidu"
+[2]: http://www.hao123.com/ "好123"
+[3]: https://github.com/ "GitHub"
+图片 参考形式：
+![61][2]
+[1]:http://www.astiron.com/data/upload/image/201506/7748386409f3a7206cb4d7dfa24c78ce.jpg
