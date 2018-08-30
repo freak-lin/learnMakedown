@@ -27,5 +27,5 @@ learnMakedown
 ![情人节](https://www.nanrenwo.net/uploads/allimg/160105/8420-160105144J4.jpg)
 
 ## 行外模式
-垃圾[百度][1]牛逼[谷歌][2]
+> 垃圾[百度][1]牛逼[谷歌][2]
 [1]:(baidu.com)[2]:(google)
