@@ -28,4 +28,4 @@ learnMakedown
 
 ## 行外模式
 垃圾[百度][1]牛逼[谷歌][2]
-[1](baidu.com)[2](google)
+[1]:(baidu.com)[2]:(google)
