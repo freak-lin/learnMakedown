@@ -24,4 +24,4 @@ learnMakedown
 ## 行内模式
 [个人博客](shazhi.cf)
 > 情人节快乐（插入图片）
-![情人节](src="https://www.nanrenwo.net/uploads/allimg/160105/8420-160105144J4.jpg")
+![情人节](https://www.nanrenwo.net/uploads/allimg/160105/8420-160105144J4.jpg)
